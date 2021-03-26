@@ -1,0 +1,10 @@
+#NIKLAUS E. WIRTH DL Author Profile link
+Switzerland – 1984
+CITATION
+For developing a sequence of innovative computer languages, EULER, ALGOL-W, MODULA and PASCAL. 
+language, systems, and architectural research.
+Niklaus Wirth grew up in Switzerland, and he spent most of his professional life at the Swiss Federal Institute of Technology (ETH) in Zürich. After earning his first degree there in 1959, he left for graduate study in North America and earned his Ph.D. in 1963 from the University of California, Berkeley. After a stint on the Stanford faculty, he returned to ETH in 1968. He was a driving force behind the creation in 1981 of what quickly became one of the world’s leading computer science departments, serving as its head for much of the 1980s. Wirth retired in 1999, but remained a frequent presence on its beautiful hilltop campus for many more years.
+
+Wirth began his rise to prominence in computer science by creating two languages: Euler (based on his dissertation work), and the systems programming language PL360 (for the IBM System/360 series of computers). This early work broke new ground in formal separation of syntax and semantics, in novel implementation techniques, and in careful language design for efficient implementation with specific parsing methods.
+
+Both languages were heavily influenced by Algol. Wirth was part of the elite international group centered on the Algol project, which collaborated to define and implement a series of language standards. The first high level languages, such as FORTRAN, were popular because they made it much easier to write and maintain application programs. But they were hard for computer companies to implement because the hardware was so limited, compiler techniques were poorly understood, and the languages themselves were clumsy or overly complex. Algol 60, the most important creation of the Algol group, introduced recursive functions, structured code blocks, and local variables. It also pioneered the formal description of programming language syntax.
